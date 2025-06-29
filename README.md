@@ -1,6 +1,6 @@
-## Hi there 👋
+Hi there 👋
+🔭 I’m currently working on a web-based QR code and barcode scanner using the HTML5 QR Code Scanner library.
 
-- 🔭 I’m currently working on a web based QR code and barcode scanner using HTML5QRcodescanner library.
-- 🌱 I’m currently learning React along with JavaScript to gain fundamental knowledge on Frontend development to fuel my journey towards Backend Development.
-- 📫 How to reach me: barjajoshuajericho@gmail.com or jobarja@my.cspc.edu.ph 
+🌱 I’m learning React and JavaScript to strengthen my frontend fundamentals and fuel my journey towards becoming a backend developer.
 
+📫 Reach me at: barjajoshuajericho@gmail.com or jobarja@my.cspc.edu.ph
