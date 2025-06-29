@@ -1,4 +1,15 @@
+## Hey there, welcome to my GitHub! 👋
+👨‍💻 I’m Joshua, a 3rd-year Computer Science student at Camarines Sur Polytechnic Colleges.
 
+🔭 Currently building a web-based QR code and barcode scanner using the HTML5 QR Code Scanner library.
+
+🌱 Actively learning React and JavaScript to strengthen my frontend skills so I can develop full stack applications, though I’m more capable and confident in backend development.
+
+💻 Passionate about creating practical web applications and continuously improving my skills to become a strong backend developer.
+
+📫 Reach me at: barjajoshuajericho@gmail.com or jobarja@my.cspc.edu.ph
+
+🔗 Connect with me on [LinkedIn](www.linkedin.com/in/jarichooo-27b878286)
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 # 📊 GitHub Stats:
