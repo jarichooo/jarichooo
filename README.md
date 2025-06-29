@@ -1,4 +1,5 @@
-Hey there, welcome to my GitHub! 👋
+## Hey there, welcome to my GitHub! 👋
+
 👨‍💻 I’m Joshua, a 3rd-year Computer Science student at Camarines Sur Polytechnic Colleges.
 
 🔭 Currently building a web-based QR code and barcode scanner using the HTML5 QR Code Scanner library.
