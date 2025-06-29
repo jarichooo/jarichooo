@@ -10,4 +10,4 @@
 
 📫 Reach me at: barjajoshuajericho@gmail.com or jobarja@my.cspc.edu.ph
 
-🔗 Connect with me on LinkedIn
+🔗 Connect with me on  [LinkedIn](www.linkedin.com/in/joshua-jericho-barja-27b878286) 
