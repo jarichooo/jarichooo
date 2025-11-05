@@ -1,7 +1,7 @@
 ## Hey there, welcome to my GitHub! 👋
-👨‍💻 I’m Joshua, a 3rd-year Computer Science student at Camarines Sur Polytechnic Colleges.
+👨‍💻 I’m currently developing my skills in Networking, Python Programming, and Cybersecurity, with a strong interest in how systems interact, communicate, and remain secure.
 
-💻 Passionate about creating practical web applications, Networking, Cybersecurity, and continuously improving my skills to become a strong Software Developer.
+💻 I enjoy solving technical challenges, learning new tools, and building projects that strengthen my understanding of both software and network fundamentals.
 
 📫 Reach me at: barjajoshuajericho@gmail.com or jobarja@my.cspc.edu.ph
 
