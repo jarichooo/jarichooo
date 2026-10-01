@@ -1,7 +1,7 @@
 ## Hey there, welcome to my GitHub! 👋
-👨‍💻 I’m currently developing my skills in Networking, Python Programming, and Cybersecurity, with a strong interest in how systems interact, communicate, and remain secure.
+👨‍💻 I’m currently developing my skills in Networking and Cybersecurity, with a strong interest in how systems interact, communicate, and remain secure.
 
-💻 I enjoy solving technical challenges, learning new tools, and building projects that strengthen my understanding of both software and network fundamentals.
+💻 I enjoy solving technical challenges, learning new tools, and building projects that strengthen my understanding of both software, network fundamentals, and security.
 
 📫 Reach me at: barjajoshuajericho@gmail.com or jobarja@my.cspc.edu.ph
 
